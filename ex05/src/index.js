@@ -2,7 +2,7 @@ function main(numOne, numTwo) {
 
     // Only change code bellow this line if you
 
-    product = numOne * numTwo;
+    var product = numOne * numTwo;
 
     //Only change code above this line
 
