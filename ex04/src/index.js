@@ -2,9 +2,9 @@ function main() {
 
     // Only change code bellow this line if you
 
-    myDecimal = 8.2;
+    var myDecimal = 8.2;
 
-    myDecimalE = 0.00254;
+    myDecimalE = 2.54 * (Math.pow(10, -3));
 
     //Only change code above this line
 
