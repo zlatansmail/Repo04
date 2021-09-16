@@ -5,7 +5,6 @@ function main() {
 
     myRes++;
 
-
     //Only change code above this line
 
     return myRes;
