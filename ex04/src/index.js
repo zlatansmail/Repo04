@@ -4,7 +4,7 @@ function main() {
 
     var myDecimal = 8.2;
 
-    myDecimalE = 2.54 * (Math.pow(10, -3));
+    var myDecimalE = 2.54E-3;
 
     //Only change code above this line
 
